@@ -19,6 +19,7 @@ Define a function in your language of choice, preferrably either Java or Python.
 
 Example for N = 3:
 
+```
     *
     |
    ===
@@ -26,9 +27,12 @@ Example for N = 3:
  |     |
 |       |
 =========
+```
+
 
 Example for N = 6:
 
+```
        *
        |
       ===
@@ -39,4 +43,4 @@ Example for N = 6:
  |           |
 |             |
 ===============
-
+```
