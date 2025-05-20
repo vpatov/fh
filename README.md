@@ -59,3 +59,16 @@ Example for N = 6:
 |             |
 ===============
 ```
+
+
+# PYTHON REPL LINK
+
+If you want to use Python, click here:
+
+https://www.online-python.com/BcON75bHgi
+
+# JAVA REPL LINK
+
+If you want to use Java, click here:
+
+https://www.jdoodle.com/ia/1HmL
