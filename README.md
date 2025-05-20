@@ -24,8 +24,11 @@ public static void printCake(integer n){
 ```
 
 ```python
-def printCake(n: int):
-    # ... your code goes here!
+def birthday_cake(n: int) -> None:
+    * answer here
+    print("Yay look my answer")
+    
+birthday_cake(1)
 ```
 
 
