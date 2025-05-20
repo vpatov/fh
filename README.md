@@ -16,6 +16,18 @@ Each layer should be centered to make the cake symmetrical.
 
 Define a function in your language of choice, preferrably either Java or Python.
 
+```java
+
+public static void printCake(integer n){
+    // ... your code goes here!
+}
+```
+
+```python
+def printCake(n: int):
+    # ... your code goes here!
+```
+
 
 Example for N = 3:
 
