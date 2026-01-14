@@ -1,3 +1,6 @@
+# Forest Hills Students - You can use this link to access this puzzle instructions and run python online: https://www.online-python.com/5fPegzyvCH
+# Or if you can run python from your computer, feel free to use your computer/IDE
+
 """
 By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23
 
