@@ -1,3 +1,6 @@
+# You can access and solve this problem at https://www.online-python.com/5sk1GigJcA
+#
+#
 # You have a list of numbers from 1 to N, but one number is missing. Find the missing number.
 # Example:
 # Input: [1, 2, 4, 5, 6]
